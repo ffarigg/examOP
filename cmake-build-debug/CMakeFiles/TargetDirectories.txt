@@ -1,0 +1,3 @@
+C:/Users/Арина Константиновна/CLionProjects/exam/OP/cmake-build-debug/CMakeFiles/OP.dir
+C:/Users/Арина Константиновна/CLionProjects/exam/OP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Арина Константиновна/CLionProjects/exam/OP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
